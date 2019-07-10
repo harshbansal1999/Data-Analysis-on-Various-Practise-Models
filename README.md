@@ -1,2 +1,4 @@
 # datsets_sklearn
-Various datasets are loaded using sklearn and data cleaning applied on them and output is predicted
+Various datasets are loaded and data preprocessing,data manipulation and then data analysis applied on them.
+Prediction also recieved after applying various machine learning models
+
